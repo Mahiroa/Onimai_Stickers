@@ -2,7 +2,7 @@
 
 ### 本项目不产生任何盈利，不接受任何形式的赞赏！
 
-**img_webp** 为[telegram原版](https://t.me/addstickers/ONIICHANWAOSHIMAISub)，由[StickerSetBot]([phoenixlzx/telegram-stickerimage-bot: Bot to export telegram stickers to images (github.com)](https://github.com/phoenixlzx/telegram-stickerimage-bot))导出。如下图所示：
+**img_webp** 为[telegram原版](https://t.me/addstickers/ONIICHANWAOSHIMAISub)，由[StickerSetBot](https://github.com/phoenixlzx/telegram-stickerimage-bot)导出。如下图所示：
 
 ![file_4901162](.\img_webp\Onimai (1).webp)
 
