@@ -1,7 +1,5 @@
 # Onimai Stickers 说明
 
-### 本项目不产生任何盈利，不接受任何形式的赞赏！
-
 **img_webp** 为[telegram原版](https://t.me/addstickers/ONIICHANWAOSHIMAISub)，由[StickerSetBot](https://github.com/phoenixlzx/telegram-stickerimage-bot)导出。如下图所示：
 
 ![Mahiro](/Onimai_Stickers/img_webp/Onimai%20(1).webp)
